@@ -23,4 +23,4 @@ Some essential stuffs for oxygen builder.
 11. You can see the codeline ``<div class="fb-page-btn-drawer">Facebook</div>`` and the iframe code below.
 12. Change the FB iframe code by removing it and pasting the new one that we save earlier. Click `Save` and close the editor.
 13. Go to your Page, Add → Reusable → `Floating FB page plugin`.
-15. Done.
+15. Done. Dont forget to Sign All your Shortcodes.
