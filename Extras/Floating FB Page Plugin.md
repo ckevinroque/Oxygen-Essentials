@@ -1,7 +1,7 @@
 # Floating Facebook Page Plugin
 Some essential stuffs for oxygen builder.
 
-![Image of Floating Facebook Page Plugin](uploads/floating-fb-page-plugin.gif)
+![Image of Floating Facebook Page Plugin](uploads/floating-fb-page.gif)
 
 
 ## Tutorial
