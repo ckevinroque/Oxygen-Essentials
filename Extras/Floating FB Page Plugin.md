@@ -5,7 +5,7 @@ Some essential stuffs for oxygen builder.
 
 
 ## Tutorial
-1. Go to `https://developers.facebook.com/docs/plugins/page-plugin/`.
+1. Go to [https://developers.facebook.com/docs/plugins/page-plugin/](https://developers.facebook.com/docs/plugins/page-plugin/).
 2. Add Facebook Page URL.
 3. Click `Get Code`.
 4. Click `IFrame` → Select your APP ID → Copy the code and save it for later use.
